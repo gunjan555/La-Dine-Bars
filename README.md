@@ -1,1 +1,1 @@
-# La-Dine-Bars
+La Foods and Bar — A modern dining and bar management project. Handles reservations, menu management, billing, inventory, and customer feedback with an easy-to-use interface. Built with Python and modern web technologies for a smooth, efficient experience.
